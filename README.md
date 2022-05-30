@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm DBA and Developer. Currently venturing and developing things for the financial market in Brazil.
+#### I'm Software Development Manager and Data Scientist. Currently venturing and developing things for the financial market in Brazil.
 
 - 🔭 I’m working at [BRA](https://www.bradvisors.com.br/) 
 - 🌱 I’m currently learning all about Machine Learning
